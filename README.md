@@ -17,5 +17,5 @@ Interview-summary after the mini-symposium [video](https://www.youtube.com/watch
   **El-Mehdi El Arar**, University of Rennes, INRIA, France
 
 ## Organizers
-- Roman Iakymchuk, Uppsala University and Umeå University, Sweden
-- Ana-Lucia Varbanescu, University of Twente, The Netherlands
+- [Roman Iakymchuk](https://www.uu.se/en/contact-and-organisation/staff?query=N23-1275), Uppsala University and Umeå University, Sweden
+- [Ana-Lucia Varbanescu](https://people.utwente.nl/a.l.varbanescu), University of Twente, The Netherlands
