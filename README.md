@@ -7,15 +7,15 @@ In scientific computing and beyond, we are all used to optimizing time-to-soluti
 Interview-summary after the mini-symposium [video](https://www.youtube.com/watch?v=ny-GtWDI7x4&ab_channel=PASCConference)
 
 ## Speakers
-- Numerical Optimization Targeting Energy-Efficient Scientific Computing. 
-  Roman Iakymchuk, Uppsala University and Umeå University, Sweden
-- Sustainable Supercomputing: An Overview of Activities at EPCC.
-  Michele Weiland, EPCC, The University of Edinburgh, UK
-- Exploring Numerical Accuracy and Mixed-Precision with Verificarlo and Stochastic Rounding. 
-  Pablo De Oliveira Castro, UVSQ, Université Paris-Saclay, France
-- Probabilistic Error Analysis of Limited-Precision Stochastic Rounding.
-  El-Mehdi El Arar, University of Rennes, INRIA, France
+- [Numerical Optimization Targeting Energy-Efficient Scientific Computing](https://pasc25.pasc-conference.org/presentation/?id=msa250&sess=sess138).< br / > 
+  **Roman Iakymchuk**, Uppsala University and Umeå University, Sweden
+- [Sustainable Supercomputing: An Overview of Activities at EPCC](https://pasc25.pasc-conference.org/presentation/?id=msa187&sess=sess138).< br / >
+  **Michele Weiland**, EPCC, The University of Edinburgh, UK
+- [Exploring Numerical Accuracy and Mixed-Precision with Verificarlo and Stochastic Rounding](https://pasc25.pasc-conference.org/presentation/?id=msa146&sess=sess138).< br / > 
+  **Pablo De Oliveira Castro**, UVSQ, Université Paris-Saclay, France
+- [Probabilistic Error Analysis of Limited-Precision Stochastic Rounding](https://pasc25.pasc-conference.org/presentation/?id=msa125&sess=sess138).< br / >
+  **El-Mehdi El Arar**, University of Rennes, INRIA, France
 
 ## Organizers
 - Roman Iakymchuk, Uppsala University and Umeå University, Sweden
-- Ana-Lucia Varbanescu, University of Twente, The Netherlands 
+- Ana-Lucia Varbanescu, University of Twente, The Netherlands
